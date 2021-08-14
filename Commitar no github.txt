@@ -1,0 +1,26 @@
+<head> 
+  <title> Paulinha dev </title>
+    
+    
+<body>
+<div id= "tela"> 
+  <h1> Paulinha Dev </h1>
+  <h2> Estudante de Engenharia de Software </h2>
+ <div1> <img src="meuqrcode.png"> </div1> </div5> </div>
+ <div id= envolve>
+    <div id ="sobre"> Estudo na Estácio 
+      Polo Botafogo II
+     <p> Minhas competências são: </p>
+      <p> Java </p>
+     <p> Javascript </p> 
+     <p> CSS3 </p>
+     <p> HTML5 </p>
+     <p> Android Studio </p>
+    </div>
+ <div id ="links"> <a href="https://www.instagram.com/paula.suzart/">
+ <img src="instaramlogo.png"> 
+ <p>  <a href="https://github.com/paulinhadev/">
+ <img src="github.png">
+ </p> </a>
+    </div>
+ </div> 
